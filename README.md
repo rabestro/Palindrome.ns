@@ -1,2 +1,2 @@
 # Palindrome.ns
-The simple NativeScripte Application. Palindrome Checker. 
+The simple NativeScripte Application. Palindrome Checker.
