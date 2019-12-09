@@ -26,7 +26,7 @@ https://docs.nativescript.org/ui/components.
         <Image src="~/images/palindrome.jpg"></Image>
         <TextField text="{{ textFieldValue }}" 
             hint="Enter a phrase to verify..."
-            class="h2 text-left"/>
+            class="h2 text-left input input-border"/>
         <Button text="CHECK THE PHRASE" tap="{{ onTap }}" class="-primary"/>
         <Label text="{{ message }}" class="h2 text-center" textWrap="true"/>
     </StackLayout>
